@@ -64,12 +64,12 @@
 |------|-----------|------|------|
 | [Perplexity](docs/guides/) | AI搜索引擎，精准引用 | SaaS | ❌ |
 | [Notion AI](docs/guides/) | Notion内置AI写作助手 | SaaS | ❌ |
+| [Doc2X](docs/guides/doc2x.md) | PDF/图片解析、公式表格识别与文档翻译 | SaaS，免费试用+付费 | 配套 MCP 开源，API 按量计费 |
 
 ### 🎙️ 语音与多模态
 
 | 工具 | 一句话描述 | 类型 | 开源 |
 |------|-----------|------|------|
-| [Doc2X](docs/guides/doc2x.md) | PDF/图片解析、公式表格识别与文档翻译 | SaaS，免费试用+付费 | 配套 MCP 开源，API 按量计费 |
 | [Whisper](docs/guides/) | OpenAI开源语音识别 | 开源 | ✅ |
 | [ElevenLabs](docs/guides/) | 逼真AI语音合成 | SaaS | ❌ |
 
